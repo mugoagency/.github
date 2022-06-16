@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## We are Mugo. 
+## We are Mugo
 A Shopify agency who work with enthusiastic brands. Web design & development, branding and marketing.
 
 Get in touch via [phone](tel:+447872646422), [email](mailto:hello@mugo.agency) or social media.
